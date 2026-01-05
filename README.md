@@ -37,7 +37,7 @@ The classifier layers, in turn, consists of folowing ones:
 * Flatten (for convolutional->fully-connected transition);
 * Dence with 512 neurons using ReLU activation function;  
 * Dropout with 0.8 rate (for preventing overfitting);  
-* 1 neuron Dance using sigmoid activation function (for binary prediction: 0/1).  
+* 1 neuron Dence using sigmoid activation function (for binary prediction: 0/1).  
 
 Therefore, the final network architecture is:  
 | Layer (type)        | Output Shape      | Param #     |
