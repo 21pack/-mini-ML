@@ -1,0 +1,12 @@
+# IDEA
+.idea
+.vscode
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# MacOS
+.DS_Store
