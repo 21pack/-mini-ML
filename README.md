@@ -101,3 +101,14 @@ Thus, out VGG-16 Top-tuning together with custom classifier layers have good acc
     ```bash
     python3 script.py
     ```
+
+## Authors
+
+* **Nikita Shchutskii:** [GitHub](https://github.com/ns-58), [Telegram](https://t.me/szcz00)
+* **Maxim Rodionov:** [GitHub](https://github.com/RodionovMaxim05), [Telegram](https://t.me/Maxoon22)
+* **Dmitri Chirkov:** [GitHub](https://github.com/kinokotakenoko9), [Telegram](https://t.me/chdmitri)
+* **Vladimir Zaikin:** [GitHub](https://github.com/Friend-zva), [Telegram](https://t.me/vo_va_w)
+
+## License
+
+Distributed under the [MIT License](https://choosealicense.com/licenses/mit/). See [`LICENSE`](LICENSE) for more information.
